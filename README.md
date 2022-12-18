@@ -1,7 +1,8 @@
 # GDWFSDVSWEBAJAVAEXAIII1B_336846_20221214103453
 Évaluation d'entraînement - Dynamiser vos sites web avec Javascript 
 
-Livrable attendu pour l’examen de ce bloc
+Livrable attendu pour l’examen de ce bloc :
+
 Création d’un petit jeu sur navigateur web à l’aide du DOM.
 En fin de prestation, le commanditaire doit recevoir les différents éléments suivants :
 - Un jeu fonctionnel
@@ -12,7 +13,9 @@ En front-desk (côté client) :
 - La possibilité de retenir le score courant
 - La possibilité de lancer le dé
 - La possibilité d’avoir 2 joueurs
+- 
 Règles :
+
 Le jeu comprend 2 joueurs sur un seul et même écran.
 Chaque joueur possède un score temporaire (ROUND) et un score global (GLOBAL).
 À chaque tour, le joueur a son ROUND initialisé à 0 et peut lancer un dé autant de fois qu'il le souhaite. Le
