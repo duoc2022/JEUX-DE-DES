@@ -1,4 +1,4 @@
-# GDWFSDVSWEBAJAVAEXAIII1B_336846_20221214103453
+# JEUX DE DES
 Évaluation d'entraînement - Dynamiser vos sites web avec Javascript 
 
 Livrable attendu pour l’examen de ce bloc :
